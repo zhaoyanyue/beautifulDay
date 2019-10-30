@@ -10,9 +10,6 @@ public class Good {
         System.out.println("good good study,day day up ");
 
 
-//      分支abc 中的
 //      分支bca 中的
-//      分支abc 中的
-//      分支ABC 中的
     }
 }
